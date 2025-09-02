@@ -1,34 +1,44 @@
+# 📚 WT Week 1–7: Online Book Store (Static Website)
 
-# WT Week 1–7: Online Book Store (Static Site)
+This project is a **complete static website** for an **Online Book Store**, built as part of Web Technologies Lab (Weeks 1–7).  
+It demonstrates **HTML, CSS, JavaScript, XML/DTD, and Bootstrap** integration.
 
-This project combines all weekly tasks into a single static website.
+---
 
-## Contents
-- **Week-1:** `index.html` (Home), `login.html` (Login with Bootstrap)
-- **Week-2:** `register.html` (Student Registration)
-- **Week-3:** Internal CSS (in HTML files) + External CSS `css/styles.css`
-- **Week-4:** JavaScript form validation `js/validation.js` (used by registration page)
-- **Week-5:** `catalog.html` (Catalogue) + simple `cart.html`
-- **Week-6:** XML + DTD in `data/books.xml` and `data/books.dtd`
-- **Week-7:** Bootstrap styling applied across pages + `profile.html` for full resume
+## 📂 Project Contents
 
-## How to run
-1. Open `index.html` in a browser (internet required for Bootstrap CDN).
-2. Navigate via the navbar to explore pages.
-3. Edit `profile.html` to paste your FULL resume as HTML to receive marks.
+- **Week 1**
+  - `index.html` → Home Page
+  - `login.html` → Login Page (Bootstrap styled)
 
-## Add your resume
-- Open `profile.html` and replace placeholders inside the `#resume` section with your real details.
+- **Week 2**
+  - `register.html` → Student Registration Page
 
-## GitHub instructions
-```bash
-git init
-git add .
-git commit -m "WT Week1-7 Online Book Store"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
+- **Week 3**
+  - Internal CSS (inside pages)
+  - External CSS: `css/styles.css`
 
-## Record & Observation
-- Include screenshots/links to `login.html` and `register.html` showcasing Bootstrap usage.
+- **Week 4**
+  - JavaScript Form Validation: `js/validation.js`  
+    (used in Registration Page)
+
+- **Week 5**
+  - `catalog.html` → Book Catalogue  
+  - `cart.html` → Simple Shopping Cart (localStorage demo)
+
+- **Week 6**
+  - `data/books.xml` → Book Information in XML  
+  - `data/books.dtd` → DTD for XML Validation
+
+- **Week 7**
+  - Bootstrap styling applied across all pages  
+  - `profile.html` → Full Resume (HTML embedded)  
+
+---
+
+## 🚀 How to Run
+
+1. Download / Clone the repository  
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo>.git
+   cd online-book-store
