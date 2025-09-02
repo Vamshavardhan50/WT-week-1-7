@@ -35,6 +35,19 @@ It demonstrates **HTML, CSS, JavaScript, XML/DTD, and Bootstrap** integration.
   - `profile.html` → Full Resume (HTML embedded)  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](https://github.com/Vamshavardhan50/WT-week-1-7/blob/main/images/Screenshot%202025-09-02%20204040.png)
+
+### 🔑 Login Page
+![Login Page](https://github.com/Vamshavardhan50/WT-week-1-7/blob/main/images/Screenshot%202025-09-02%20204101.png)
+
+### 📝 Registration Page
+![Registration Page](https://github.com/Vamshavardhan50/WT-week-1-7/blob/main/images/Screenshot%202025-09-02%20204113.png)
+
+### 📝 Registration Page
+![Resume Page](https://github.com/Vamshavardhan50/WT-week-1-7/blob/main/images/Screenshot%202025-09-02%20204050.png)
 
 ## 🚀 How to Run
 
